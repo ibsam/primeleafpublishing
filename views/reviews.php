@@ -66,19 +66,19 @@
                     <h2>Endorsements & Media Releases</h2>
                     <ul>
                         <li>
-                            <a href="https://www.digitaljournal.com/pr/news/vehement-media/paramount-book-publishers-empowers-authors-1876589000.html" target="_blank"><img src="assets/images/1.png" alt=""></a>
+                            <a href="" target="_blank"><img src="assets/images/1.png" alt=""></a>
                         </li>
                         <li>
-                            <a href="https://famoustimes.com/tips-for-fiction-and-non-fiction-authors-by-paramount-book-publisher/" target="_blank"><img src="assets/images/2.png" alt=""></a>
+                            <a href="" target="_blank"><img src="assets/images/2.png" alt=""></a>
                         </li>
                         <li>
-                            <a href="https://fox47.marketminute.com/article/globeprwire-2026-7-29-paramount-book-publishers-empowers-authors-with-comprehensive-publishing-services" target="_blank"><img src="assets/images/3.png" alt=""></a>
+                            <a href="" target="_blank"><img src="assets/images/3.png" alt=""></a>
                         </li>
                         <li>
-                            <a href="https://knoxmarketresearch.com/paramount-book-publishers-empowers-authors-with-comprehensive-publishing-services/" target="_blank"><img src="assets/images/4.png" alt=""></a>
+                            <a href="" target="_blank"><img src="assets/images/4.png" alt=""></a>
                         </li>
                         <li>
-                            <a href="https://www.timesworld.us/paramount-book-publishers-empowers-authors-with-comprehensive-publishing-services/" target="_blank"><img src="assets/images/5.png" alt=""></a>
+                            <a href="" target="_blank"><img src="assets/images/5.png" alt=""></a>
                         </li>
                     </ul>
                 </div>
