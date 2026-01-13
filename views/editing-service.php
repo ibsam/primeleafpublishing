@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>A Globally Renowned Publishing Company | Your Brand</title>
-<meta name="description" content="Your Brand provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
+<title>A Globally Renowned Publishing Company | Prime Leaf Publishing</title>
+<meta name="description" content="Prime Leaf Publishing provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
 <?php include_once("includes/head.php")?>
 
 <body>
@@ -134,7 +134,7 @@
         </div>
     </div>
 </section>
-<?php include_once("includes/pricing.php") ?>
+
 
 <section class="sec_3 pricing_bg service_writing">
     <div class="container">
@@ -147,7 +147,7 @@
             <div class="col-md-7">
                 <div class="global_content">
                     <h2>Turn Your Story into <br> <span>A Best-Seller!</span></h2>
-                    <p>Are you ready to go on a literary journey and share your unique story with the world? Your Brand is your trusted partner in turning your manuscript into a professionally published e-book. Our team of experienced editors, designers, and marketers is dedicated to helping you achieve your publishing goals. Contact us today to schedule a consultation.</p>                    
+                    <p>Are you ready to go on a literary journey and share your unique story with the world? Prime Leaf Publishing is your trusted partner in turning your manuscript into a professionally published e-book. Our team of experienced editors, designers, and marketers is dedicated to helping you achieve your publishing goals. Contact us today to schedule a consultation.</p>                    
                 </div>
                 <div class="global_btn">
                         <span>
@@ -224,7 +224,7 @@
                 <div class="chose_box top">
                     <img src="assets/images/chose_3.webp" alt="">
                     <h2>Nonfiction Writing</h2>
-                    <p>Do you want to get your non-fiction book published? We are here to help. At Your Brand, we take pride in providing our clients with exceptional non-fiction writing services at an affordable cost. Being
+                    <p>Do you want to get your non-fiction book published? We are here to help. At Prime Leaf Publishing, we take pride in providing our clients with exceptional non-fiction writing services at an affordable cost. Being
                               our client, you need to share your idea with our writers, and they will come up with a stunning and error-free masterpiece for you. Our experts made significant contributions to eminent literary journals, magazines,
                               and newspapers.</p>
                 </div>
@@ -233,7 +233,7 @@
                 <div class="chose_box">
                     <img src="assets/images/chose_4.webp" alt="">
                     <h2>Story Writing</h2>
-                    <p> Your Brand team consists of professional writers who can weave magic with their wordplay. They are the wordsmiths in the truest sense. They are incredibly proficient in their genres and maintain consistency
+                    <p> Prime Leaf Publishing team consists of professional writers who can weave magic with their wordplay. They are the wordsmiths in the truest sense. They are incredibly proficient in their genres and maintain consistency
                     in delivering excellence. Our valued clients can contact our ghostwriters for all their story-writing endeavors.</p>
                 </div>
             </div>

@@ -3,8 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <title>A Globally Renowned Publishing Company | Your Brand</title>
-<meta name="description" content="Your Brand provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
+  <title>A Globally Renowned Publishing Company | Prime Leaf Publishing</title>
+<meta name="description" content="Prime Leaf Publishing provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
   <?php include_once("includes/head.php")?>
 </head>
 
@@ -45,7 +45,7 @@
       <div class="col-md-12 col-sm-12 col-xs-12 privacy">
         <br>
         <h2>PRIVACY POLICY</h2>
-        <p> Your Brand is committed to the privacy of personal information of its clients. We have created our privacy policy to ensure visitors of our commitment to security and privacy standards. Our primary  policy explains we collection and usage of the information about our clients. The following points elaborate on our policy of collecting and using visitors’ information.</p>
+        <p> Prime Leaf Publishing is committed to the privacy of personal information of its clients. We have created our privacy policy to ensure visitors of our commitment to security and privacy standards. Our primary  policy explains we collection and usage of the information about our clients. The following points elaborate on our policy of collecting and using visitors’ information.</p>
         
         <div class="col-md-12 col-sm-12 col-xs-12 term-text">
           <h3>What information do we collect about you?</h3>

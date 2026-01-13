@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>A Globally Renowned Publishing Company | Your Brand</title>
-<meta name="description" content="Your Brand provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
+<title>A Globally Renowned Publishing Company | Prime Leaf Publishing</title>
+<meta name="description" content="Prime Leaf Publishing provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
 <?php include_once("includes/head.php")?>
 
 <body>

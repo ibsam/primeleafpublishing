@@ -125,7 +125,7 @@ section.header_top {
 }
 .header_desc p {
     color: #fff;
-    text-align: right;
+    text-align: left;
 }
 
 header.header_wrap {
@@ -1277,35 +1277,33 @@ section.pricing_chose {
     padding: 80px 0;
 }
 
-.chose_box {background: rgb(183,183,183);background: linear-gradient(0deg, rgba(183,183,183,1) 0%, rgba(255,255,255,1) 50%);padding: 70px 30px;border-radius: 30px;text-align: center;background-image: url(../images/bg_shade.webp);background-repeat: no-repeat;background-size: 100%;background-position: center;width: 400px;}
+.chose_box {background: rgb(183,183,183);background: linear-gradient(0deg, rgba(183,183,183,1) 0%, rgba(255,255,255,1) 50%);border-radius: 30px;padding: 15px;min-height: 390px;}
 
 .chose_box img {
-    margin: 0 0 30px 0;
+    margin: 0px 0 30px 0;
+    width: 50px;
 }
 
 .chose_box h2 {
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'Poppins' !important;
     text-transform: uppercase;
     color: #000;
     font-weight: 600;
-    width: 70%;
     margin: auto;
     margin-bottom: 20px;
+    line-height: 22px;
 }
 
 .chose_box p {
-    font-size: 15px;
+    font-size: 14px;
     color: #6B6B6B;
-    width: 74%;
-    margin-left: 30px !important;
-    max-height: 135px;
     overflow-y: scroll;
-    text-align: center;
+    padding: 0 10px 0 0;
+    height: 200px;
 }
 
 .chose_box.top {
-    margin: 40px 0 0 0;
 }
 
 .banner_img.pricing_circle {
@@ -1432,7 +1430,7 @@ section.sec_3.pricing_bg.service_writing {
 
 section.sec_1.contact_banner {
     background-image: url(../images/contact.webp);
-    padding: 240px 0 145px 0px;
+    padding: 130px 0 100px 0;
     height: 100%;
     display: flex;
     align-items: center;
@@ -1787,8 +1785,8 @@ section.service_sec .global_content.text-center h2 {
 }
 
 section.sec_1.contact_banner .banner_inner h1 {
-    font-size: 80px;
-    line-height: 60px;
+    font-size: 60px;
+    line-height: 50px;
 }
 
 .dropdown-menu {
@@ -2352,8 +2350,6 @@ section.sec_form .global_content h2 {
 }
 
 .chose_box {
-    width: 380px;
-    padding: 60px 0 40px 0;
 }
 .banner_img.pricing_circle:before {
     width: 400px;
@@ -2558,8 +2554,6 @@ section.sec_form .global_content h2 {
 }
 
 section.pricing_chose .row.mt-5  .col-md-3 {
-    width: 50%;
-    flex: 0 0 50%;
 }
 br {
     display: none;
@@ -3304,4 +3298,8 @@ section.news_sec {
 
 .packages_inner ul h4 {
     font-size: 18px;
+}
+
+section.main-privacy {
+    padding: 70px 0;
 }

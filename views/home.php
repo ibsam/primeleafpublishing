@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>A Globally Renowned Publishing Company | Your Brand</title>
-<meta name="description" content="Your Brand provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
+<title>A Globally Renowned Publishing Company | Prime Leaf Publishing</title>
+<meta name="description" content="Prime Leaf Publishing provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
 <?php include_once("includes/head.php")?>
 
 <body>
@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-md-5">
                 <div class="banner_inner">
-                    <h5>Your Brand</h5>
+                    <h5>Prime Leaf Publishing</h5>
                     <h1>Your Story Deserves <span>Its Moments</span></h1>
                     <p>Whether you're a budding author or a seasoned storyteller, our comprehensive book publishing and marketing services are designed to turn your literary vision to fruition. Stand out in the literary market.</p>
                     <div class="global_btn">
@@ -44,7 +44,7 @@
             <div class="col-md-5">
                 <div class="global_content">
                     <h5>Expanding Your Potential</h5>
-                    <h2>Why Choose <br> Your Brand?</h2>
+                    <h2>Why Choose <br> Prime Leaf Publishing?</h2>
                     <p>Our commitment to excellence sets us apart in the competitive world of publishing. With vast industry experience, we harness the latest tools and strategies to ensure your book reaches its full potential. Our team of skilled editors, talented designers, and savvy marketing professionals work collaboratively. We go above and beyond to make your book a sensation.</p>
                     <div class="global_btn">
                         <span>
@@ -61,9 +61,6 @@
         </div>
     </div>
 </section>
-
-<?php include_once("includes/pricing.php") ?>
-
 
 
 
@@ -139,7 +136,7 @@
             <div class="col-md-5">
                 <div class="global_content">                    
                     <h2>Our Portfolio <span>Celebrating Author Success</span></h2>
-                    <p>See the diverse range of books we've proudly published at Your Brand. Our portfolio showcases the talent and creativity of our authors, reflecting our commitment to exceptional storytelling and quality.</p>
+                    <p>See the diverse range of books we've proudly published at Prime Leaf Publishing. Our portfolio showcases the talent and creativity of our authors, reflecting our commitment to exceptional storytelling and quality.</p>
                     <div class="global_btn">
                         <span>
                             <button type="button" class="btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Get A Quote </button>

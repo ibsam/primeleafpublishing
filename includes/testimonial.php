@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="global_content text-center">
                     <h2>Hear from Our <span>Authors</span></h2>
-                    <p>At Your Brand, we believe that the true measure of our success lies in the voices of the authors we empower.</p>
+                    <p>At Prime Leaf Publishing, we believe that the true measure of our success lies in the voices of the authors we empower.</p>
                 </div>
             </div>
         </div>

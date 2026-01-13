@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>A Globally Renowned Publishing Company | Your Brand</title>
-<meta name="description" content="Your Brand provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
+<title>A Globally Renowned Publishing Company | Prime Leaf Publishing</title>
+<meta name="description" content="Prime Leaf Publishing provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
 <?php include_once("includes/head.php")?>
 
 <body>
@@ -97,7 +97,7 @@
         </div>
     </div>
 </section>
-<?php include_once("includes/pricing.php") ?>
+
 
 <section class="sec_3 pricing_bg service_writing">
     <div class="container">
@@ -110,7 +110,7 @@
             <div class="col-md-7">
                 <div class="global_content">
                     <h2>Turn Your Story into <br> <span>A Best-Seller!</span></h2>
-                    <p>Are you ready to go on a literary journey and share your unique story with the world? Your Brand is your trusted partner in turning your manuscript into a professionally published e-book. Our team of experienced editors, designers, and marketers is dedicated to helping you achieve your publishing goals. Contact us today to schedule a consultation.</p>                    
+                    <p>Are you ready to go on a literary journey and share your unique story with the world? Prime Leaf Publishing is your trusted partner in turning your manuscript into a professionally published e-book. Our team of experienced editors, designers, and marketers is dedicated to helping you achieve your publishing goals. Contact us today to schedule a consultation.</p>                    
                 </div>
                 <div class="global_btn">
                         <span>

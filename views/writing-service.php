@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>A Globally Renowned Publishing Company | Your Brand</title>
-<meta name="description" content="Your Brand provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
+<title>A Globally Renowned Publishing Company | Prime Leaf Publishing</title>
+<meta name="description" content="Prime Leaf Publishing provides comprehensive book publishing services, including writing, editing, design, and marketing. Transform your manuscript into a bestseller with our expert team. Discover your one-stop solution for all your book publishing needs today!"/>
 <?php include_once("includes/head.php")?>
 
 <body>
@@ -22,7 +22,7 @@
                 <div class="banner_inner pricing_banner">
                     <h5>Explore Your Publishing Potential Today!</h5>
                     <h1>The Best Ghostwriting <span>Company in Town</span></h1>
-                    <p>At Your Brand, we take pride in our ghostwriter's unrivaled brilliance in coming up with out-of-the-box ideas and creating an engaging narrative second to none.</p>
+                    <p>At Prime Leaf Publishing, we take pride in our ghostwriter's unrivaled brilliance in coming up with out-of-the-box ideas and creating an engaging narrative second to none.</p>
                     <div class="global_btn">
                         <span>
                             <button type="button" class="btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">Let’s Discuss Your Project </button>
@@ -48,7 +48,7 @@
             <div class="col-md-12">
                 <div class="global_content text-center">
                     <h2>What we cover in <span>Ghostwriting Services?</span></h2>
-                    <p>We are here to shape your reader's perspectives. At Your Brand, you get to witness unmatched brilliance when our professional ghostwriters work their magic to bring your ideas to life. . Our professionals compose well-versed content that exhibits true professionalism while highlighting creativity. We are a bunch of inspiring ghostwriters who are dedicated to serving our clients to ensure their total satisfaction.</p>
+                    <p>We are here to shape your reader's perspectives. At Prime Leaf Publishing, you get to witness unmatched brilliance when our professional ghostwriters work their magic to bring your ideas to life. . Our professionals compose well-versed content that exhibits true professionalism while highlighting creativity. We are a bunch of inspiring ghostwriters who are dedicated to serving our clients to ensure their total satisfaction.</p>
                 </div>
             </div>
         </div>
@@ -61,7 +61,7 @@
                         </li>
                         <li>
                             <h4>Book Writing</h4>
-                            <p> Your Brand has a team of professional eBook writers who will assist you in becoming a best-selling author. Our writers are skilled at writing books on various genres, and so far, we have written books covering 45 genres. We can help transform your idea into a well-written book. It’s time to hire our eBook writing agency’s services.</p>
+                            <p> Prime Leaf Publishing has a team of professional eBook writers who will assist you in becoming a best-selling author. Our writers are skilled at writing books on various genres, and so far, we have written books covering 45 genres. We can help transform your idea into a well-written book. It’s time to hire our eBook writing agency’s services.</p>
                         </li>
                     </ul>
                 </div>
@@ -95,7 +95,7 @@
         </div>
     </div>
 </section>
-<?php include_once("includes/pricing.php") ?>
+
 
 <section class="sec_3 pricing_bg service_writing">
     <div class="container">
@@ -108,7 +108,7 @@
             <div class="col-md-7">
                 <div class="global_content">
                     <h2>Turn Your Story into <br> <span>A Best-Seller!</span></h2>
-                    <p>Are you ready to go on a literary journey and share your unique story with the world? Your Brand is your trusted partner in turning your manuscript into a professionally published e-book. Our team of experienced editors, designers, and marketers is dedicated to helping you achieve your publishing goals. Contact us today to schedule a consultation.</p>                    
+                    <p>Are you ready to go on a literary journey and share your unique story with the world? Prime Leaf Publishing is your trusted partner in turning your manuscript into a professionally published e-book. Our team of experienced editors, designers, and marketers is dedicated to helping you achieve your publishing goals. Contact us today to schedule a consultation.</p>                    
                 </div>
                 <div class="global_btn">
                         <span>

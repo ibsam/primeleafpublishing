@@ -21,7 +21,7 @@
                             </span>
                             <span>
                                 <h5>Email Us</h5>
-                                <a href="mailto:info@yourbrand.com">info@yourbrand.com</a>
+                                <a href="mailto:info@primeleafpublishing.com">info@primeleafpublishing.com</a>
                             </span>
                         </li>
                     </ul>
@@ -61,7 +61,7 @@
                     <h5>Contact us</h5>
                     <ul class="info">
                         <li><a href="tel:+0 000 000 0000"><i class="fa-solid fa-phone"></i> +0 000 000 0000</a></li>
-                        <li><a href="mailto:info@yourbrand.com"><i class="fa-solid fa-envelope"></i> info@yourbrand.com</a></li>
+                        <li><a href="mailto:info@primeleafpublishing.com"><i class="fa-solid fa-envelope"></i>info@primeleafpublishing.com</a></li>
                         <li><i class="fa-solid fa-location-dot"></i> United State</li>
                     </ul>                    
                 </div>
@@ -87,7 +87,7 @@
     <div class="row">
       <div class="col-md-6">
           <div class="bottom_desc">
-            <p>Copyrights © 2026. Powered by <a href="/">Your Brand</a></p>
+            <p>Copyrights © 2026. Powered by <a href="/">Prime Leaf Publishing</a></p>
           </div>
       </div>
       <div class="col-md-6">

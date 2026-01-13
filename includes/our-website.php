@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="content_inner">
                     <h2>Our Websites Are <span>Famous For<br> Many Reasons!</span></h2>
-                    <p>Websites by Your Brand stand out due to their blend of creativity and functionality! Unlike generic templates, Your Brand crafts bespoke designs that integrate cutting-edge technology, ensuring an engaging user experience.</p>
+                    <p>Websites by Prime Leaf Publishing stand out due to their blend of creativity and functionality! Unlike generic templates, Prime Leaf Publishing crafts bespoke designs that integrate cutting-edge technology, ensuring an engaging user experience.</p>
                 </div>
             </div>
         </div>
@@ -19,7 +19,7 @@
                     <div class="service_child">
                         <img src="assets/images/service_2.webp" alt="">
                         <h4>SOCIAL MEDIA MARKETING</h4>
-                        <p>Elevate your brand’s presence on social media with our strategic social media marketing services.....</p>                        
+                        <p>Elevate Prime Leaf Publishing’s presence on social media with our strategic social media marketing services.....</p>                        
                     </div>
                     <div class="service_child">
                         <img src="assets/images/service_2.webp" alt="">

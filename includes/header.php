@@ -15,7 +15,7 @@
                         </li>
                         <li>
                             <span><i class="fa-solid fa-envelope"></i></span>
-                            <span><a href="mailto:ainfo@example.com">info@yourbrand.com</a></span>
+                            <span><a href="mailto:ainfo@example.com">info@primeleafpublishing.com</a></span>
                         </li>
                     </ul>
                 </div>
@@ -27,18 +27,24 @@
 <!-- header -->
 <header class="header_wrap desktop">
     <div class="container">
-        <div class="row align-items-center">            
-            <div class="col-md-3">
+        <div class="row align-items-center">   
+            <div class="col-md-5">
+                <div class="menu_wrap left">  
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="about/">About Us</a></li>
+                        <li><a href="reviews/">Reviews</a></li>
+                    </ul>                           
+                </div>
+            </div>         
+            <div class="col-md-2">
                 <div class="logo">
                     <a href="/"><img src="assets/images/logo.gif" alt=""></a>
                 </div>
             </div>
-            <div class="col-md-9">
+            <div class="col-md-5">
                 <div class="menu_wrap right">  
                     <ul>
-                        <li><a href="about/">About Us</a></li>
-                        <li><a href="pricing/">Pricing</a></li>
-                        <li><a href="reviews/">Reviews</a></li>
                         <li><a href="javascript:void(0)">Service <i class="fa-solid fa-caret-down"></i></a>
                             <ul>
                                 <li><a href="editing-service/">Editing Service</a></li>
@@ -48,6 +54,7 @@
                             </ul>
                         </li>
                         <li><a href="contact/">Contact Us</a></li>
+                        <li><button class="btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal" type="button">Get Started</button></li>
                     </ul>                           
                 </div>
             </div>
@@ -74,7 +81,7 @@
                         <a href="/"><img src="assets/images/logo.webp" alt=""></a>
                         <a href="/">Home</a>
                         <a href="about/">About Us</a>
-                        <a href="pricing/">Pricing & Plans</a>                       
+                        <!-- <a href="pricing/">Pricing & Plans</a>                        -->
                         <a href="reviews/">Reviews</a>
                         <button id="serv">Service</button>
                         <ul id="serv_list">
