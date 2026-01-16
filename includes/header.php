@@ -67,7 +67,7 @@
         <div class="row align-items-center">
             <div class="col-md-6">
                 <div class="logo">
-                    <a href="/"><img src="assets/images/logo.webp" alt=""></a>
+                    <a href="/"><img src="assets/images/logo1-01.png" alt=""></a>
                 </div>
             </div>
             <div class="col-md-6">

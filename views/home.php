@@ -148,15 +148,8 @@
             <div class="row align-items-center portfolio_row">
                 <div class="col-md-5">
                     <div class="global_content">
-                        <h2>Social Proof & <span>Authority</span></h2>
-                        <p>To improve the "Hear from Our Authors" section, update the testimonials to feel more grounded.</p>
-                        <div class="points_chose">                        
-                            <ul>
-                                <li><b>Teleah Moore</b>: "Prime Leaf Publishing didn't just publish my book; they launched my career. Their team is incredibly talented and guided me through every professional step."</li>
-                                <li><b>Pierre Hache</b>: "Writing is a lonely task, but publishing doesn't have to be. I turned to Prime Leaf for their expertise, and they delivered a product that far exceeded my expectations."</li>
-                                <li><b>Sarah Read</b>: "The print quality was amazing and the process was so smooth. I give them 5 stars for their personal assistance and attention to detail."</li>
-                            </ul>
-                        </div>
+                        <h2>Our Portfolio Celebrating <SPAN>Author Success</SPAN></h2>
+                        <p>See the diverse range of books we've proudly published at Prime Leaf Publishing Our portfolio showcases the talent and creativity of our authors, reflecting our commitment to exceptional storytelling and quality.</P>    
                         <div class="global_btn">
                             <span>
                                 <button type="button" class="btn-danger" data-bs-toggle="modal"
