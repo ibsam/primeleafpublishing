@@ -71,7 +71,7 @@
             </div>
             <div class="col-md-5">
                 <div class="team_img">
-                    <img src="assets/images/team.webp" alt="">
+                    <img src="assets/images/get-in-touch.webp" alt="">
                 </div>
             </div>
         </div>

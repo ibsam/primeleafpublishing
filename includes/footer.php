@@ -33,7 +33,7 @@
         </div>
         <div class="col-md-4">
           <div class="center_girl">
-            <img src="assets/images/form_girl.webp" alt="">
+            <img src="assets/images/contact.png" alt="">
           </div>
         </div>
         <div class="col-md-4">
@@ -94,7 +94,7 @@
       <div class="row">
         <div class="col-md-6">
           <div class="bottom_desc">
-            <p>Copyrights © 2026. Powered by <a href="/">Prime Leaf Publishing</a></p>
+            <p>Copyrights © 2026. Powered by <a href="/">MIG Innovations</a></p>
           </div>
         </div>
         <div class="col-md-6">

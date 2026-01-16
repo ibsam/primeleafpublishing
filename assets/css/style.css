@@ -367,6 +367,7 @@ section.sec_logo {
     height: 100%;
     margin-left: auto;
     display: block;
+    border-radius: 15px;
 }
 
 section.sec_3 {
@@ -786,6 +787,7 @@ section.sec_process {
     width: 95%;
     object-fit: cover;
     height: 800px;
+    border-radius: 15px;
 }
 
 section.sec_3 .portfolio_row {margin-right: calc(50% - 51vw);}
@@ -3169,6 +3171,7 @@ section.contact_form_sec {
 
 .team_img img {
     width: 100%;
+    border-radius: 15px;
 }
 
 .form_wraper form .inner_fields {
