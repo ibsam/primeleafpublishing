@@ -8,8 +8,8 @@
     <?php include_once("includes/head.php")?>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC428LN9" height="0" width="0"
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC428LN9" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <!-- header -->
@@ -21,28 +21,27 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <div class="banner_inner">
-                        <h5>Your Partner in Literary Excellence</h5>
+                        <h5>Your Story, Refined and Realized.</h5>
                         <h1>Turn Your Ideas Into A <span>Publish-Ready Masterpiece</span></h1>
-                        <p>Our team of experienced editors, designers, and marketing professionals work collaboratively
-                            to ensure that your book stands out in a competitive market. Let's take your literary
-                            aspirations to new heights!
-                        </p>
+                        <p>At Prime Leaf Publishing, we believe every manuscript holds the potential for greatness. We
+                            don't just publish books; we nurture legacies by providing the expert guidance, creative
+                            precision, and strategic support your work deserves.</p>
                         <div class="global_btn">
                             <span>
                                 <button type="button" class="btn-danger" data-bs-toggle="modal"
-                                    data-bs-target="#exampleModal">Let’s Discuss Your Project <span><i
+                                    data-bs-target="#exampleModal">Explore Our Services <span><i
                                             class="fa-solid fa-arrow-right"></i></span></button>
                             </span>
                             <span>
-                                <a href="tel:+0 000 000 0000"><button type="button" class="btn-danger"> +1
-                                        (888)-660-0720 </button></a>
+                                <a href="tel:+1 (213) 319-5085"><button type="button" class="btn-danger">Schedule a
+                                        Consultatio</button></a>
                             </span>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="banner_img">
-                        <img src="assets/images/about_banner.webp" alt="">
+                        <img src="assets/images/about_banner.png" alt="">
                     </div>
                 </div>
             </div>
@@ -53,13 +52,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="global_content text-center">
+                    <div class="global_content">
                         <h5>About Us</h5>
-                        <h2>A Unique Publishing <span>Experience</span></h2>
-                        <p>We understand that the publishing landscape is vast and competitive. What distinguishes us is
-                            our unwavering commitment to personalized service and author collaboration. We prioritize
-                            your unique voice and vision, working closely with you at every stage of the process.</p>
-                        <div class="global_btn center">
+                        <h2>Where Tradition Meets <span>Innovation.</span></h2>
+                        <p>Prime Leaf Publishing was founded on a simple principle: the author’s voice is Prime Leaf Publishing. In
+                            an evolving literary landscape, we bridge the gap between traditional quality and modern
+                            reach.</p>
+                        <div class="missiom_wrap">
+                            <h4>Our Mission</h4>
+                            <p>To empower storytellers by providing a seamless,
+                                transparent, and world-class publishing experience that puts your
+                                creative vision first.</p>
+                            <h4>Our Approach</h4>
+                            <p>We treat every project as a unique masterpiece. From
+                                the first stroke of the editor’s pen to the final design of the cover, our
+                                process is collaborative, meticulous, and deeply personal.
+                            </p>
+                        </div>
+                        <div class="global_btn">
                             <span>
                                 <button type="button" class="btn-danger" data-bs-toggle="modal"
                                     data-bs-target="#exampleModal">Let’s Discuss Your Project <span><i
@@ -68,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-            </div>           
+            </div>
         </div>
     </section>
 
@@ -78,11 +88,17 @@
                 <div class="col-md-6">
                     <div class="global_content">
                         <h5>Ready to Join</h5>
-                        <h2>Our Author Support Program?</h2>
-                        <p>Regardless of your genre, our skilled and seasoned authors are here to craft exceptional
-                            literature for you. Whether it's fiction, non-fiction, an autobiography, or more, we'll
-                            handle editing, proofreading, formatting, and design. All at a budget-friendly price. Rely
-                            on our expert book writing services with confidence!</p>
+                        <h2>Empowering Your Creative Journey</h2>
+                        <p>Writing a book is often a solitary act, but publishing it shouldn't be.
+                            Our <b>Author Support Program</b> is designed to provide a 360-degree safety net
+                            for writers at every stage. Whether you need the discreet hand of a
+                            professional ghostwriter, the sharp eye of a senior editor, or a global
+                            distribution strategy, we are your dedicated partners in literary excellence</p>
+                        <ul>
+                            <li><b>Professional Ghostwriting</b> Bringing your untold stories to life with precision.</li>
+                            <li><b> Boutique Design</b> Custom covers that demand attention on any shelf</li>
+                            <li><b>Global Distribution</b> Putting your work in front of readers worldwide via Amazon, Barnes & Noble, and more</li>
+                        </ul>
                         <div class="global_btn">
                             <span>
                                 <button type="button" class="btn-danger" data-bs-toggle="modal"

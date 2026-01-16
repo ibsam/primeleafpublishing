@@ -11,7 +11,7 @@
                     <ul>
                         <li>
                             <span><i class="fa-solid fa-phone"></i></span>
-                            <span><a href="tel:+0 000 000 0000">+0 000 000 0000</a></span>
+                            <span><a href="tel:+1 (213) 319-5085">+1 (213) 319-5085</a></span>
                         </li>
                         <li>
                             <span><i class="fa-solid fa-envelope"></i></span>
@@ -39,7 +39,7 @@
             </div>         
             <div class="col-md-2">
                 <div class="logo">
-                    <a href="/"><img src="assets/images/logo.gif" alt=""></a>
+                    <a href="/"><img src="assets/images/logo1-01.png" alt=""></a>
                 </div>
             </div>
             <div class="col-md-5">
